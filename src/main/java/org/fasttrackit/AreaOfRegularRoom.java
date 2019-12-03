@@ -8,9 +8,9 @@ public class AreaOfRegularRoom {
 
     public void square (){
         System.out.println("Please introduce the length. (feet)");
-        int a = length.nextInt();
+        double a = length.nextDouble();
         System.out.println("Please introduce the width. (feet)");
-        int b = width.nextInt();
+        double b = width.nextDouble();
 
 
         double squareFeet = a*b;
