@@ -6,7 +6,8 @@ public class PizzaParty {
     Scanner pizza = new Scanner(System.in);
     Scanner people = new Scanner(System.in);
 
-    public void party(){
+    public void party() {
+
         System.out.println("How many people?");
         int a = people.nextInt();
         System.out.println("How many pizzas do you have?");
