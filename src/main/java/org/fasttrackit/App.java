@@ -5,7 +5,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        SelfCheckout selfCheckout = new SelfCheckout();
-        selfCheckout.subTotal();
+      CurrencyConversion currencyConversion = new CurrencyConversion();
+      currencyConversion.conversion();
     }
 }
