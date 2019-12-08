@@ -5,7 +5,7 @@ public class App
 {
     public static void main( String[] args )
     {
-      CurrencyConversion currencyConversion = new CurrencyConversion();
-      currencyConversion.conversion();
+      ComputingSimpleInterest computingSimpleInterest = new ComputingSimpleInterest();
+      computingSimpleInterest.interest();
     }
 }
