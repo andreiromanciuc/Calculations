@@ -5,7 +5,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        PaintCalculator paintCalculator = new PaintCalculator();
-        paintCalculator.square();
+        SelfCheckout selfCheckout = new SelfCheckout();
+        selfCheckout.subTotal();
     }
 }
