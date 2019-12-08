@@ -5,7 +5,7 @@ public class App
 {
     public static void main( String[] args )
     {
-      ComputingSimpleInterest computingSimpleInterest = new ComputingSimpleInterest();
-      computingSimpleInterest.interest();
+      DeterminingCompoundInterest determiningCompoundInterest = new DeterminingCompoundInterest();
+      determiningCompoundInterest.interest();
     }
 }
