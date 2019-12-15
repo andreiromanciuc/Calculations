@@ -5,7 +5,7 @@ public class App
 {
     public static void main( String[] args )
     {
-      BloodAlcoholCalculator bloodAlcoholCalculator = new BloodAlcoholCalculator();
-      bloodAlcoholCalculator.alcoholCalculator();
+      TemperatureConverter temperatureConverter = new TemperatureConverter();
+      temperatureConverter.convert();
     }
 }
