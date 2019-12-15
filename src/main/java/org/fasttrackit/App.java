@@ -5,7 +5,7 @@ public class App
 {
     public static void main( String[] args )
     {
-      PasswordValidation passwordValidation = new PasswordValidation();
-      passwordValidation.passwordEnter();
+      LegalDrivingAge legalDrivingAge = new LegalDrivingAge();
+      legalDrivingAge.drive();
     }
 }
