@@ -5,7 +5,7 @@ public class App
 {
     public static void main( String[] args )
     {
-      LegalDrivingAge legalDrivingAge = new LegalDrivingAge();
-      legalDrivingAge.drive();
+      BloodAlcoholCalculator bloodAlcoholCalculator = new BloodAlcoholCalculator();
+      bloodAlcoholCalculator.alcoholCalculator();
     }
 }
