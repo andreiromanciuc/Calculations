@@ -5,7 +5,7 @@ public class App
 {
     public static void main( String[] args )
     {
-      NumbersToName numbersToName = new NumbersToName();
-      numbersToName.numbersToName();
+      ComparingNumbers comparingNumbers = new ComparingNumbers();
+      comparingNumbers.comparingNumbers();
     }
 }
